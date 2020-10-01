@@ -1,8 +1,8 @@
 public class Construction
 {
     
-    double lumber;  // price per board 
-    double windows; // price per square inch of window
+    double lumber =;  // price per board 
+    double windows =; // price per square inch of window
     double taxRate; 
    
     
